@@ -1,3 +1,4 @@
+package Calculator;
 import javax.swing.*;
 public class calc {
     static class process{
